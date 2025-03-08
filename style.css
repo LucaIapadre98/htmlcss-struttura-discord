@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+}
+.conteiner-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0;
+   
+}
+header{
+    background-color: aqua;
+    height: 350px;
+    width: 100%;
+    border: 20px;
+}
+.item-flex{
+    border: 1px solid black;
+    border: dashed;
+    margin: 20px;
+    width: 80%;
+    background-color: hsla(47, 94%, 48%, 0.769);
+}
+ .conteiner-box{
+    height: 280px;
+    width: 100%;
+    background-color: #0000ff;
+   
+ }
+.box{
+    width: 500px;
+    border: 1px solid black;
+    margin-left: 300px;
+    background-color: pink;
+    min-height: 250px;
+}
+main{
+    background-color: hsl(0, 0%, 53%);
+}
